@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/puremvc-java-1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/BKSportAnnotation/javadoc/puremvc-java-1.1-doc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/kim/channel_iface_impl_stub-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/kim/kim-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/BKSportAnnotation/javadoc/kim-3.0-RC5-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/kim/platform-api-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/agraph/agraph-4.9.jar"/>
+	<classpathentry kind="lib" path="lib/agraph/lib/jena/jena-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/agraph/lib/sesame/openrdf-sesame-2.6.8-onejar.jar"/>
+	<classpathentry kind="lib" path="lib/agraph/lib/jena/jena-arq-2.9.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

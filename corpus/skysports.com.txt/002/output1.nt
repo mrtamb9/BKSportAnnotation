@@ -1,0 +1,415 @@
+<http://bk.sport.owl#document0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Barca-make-San-Siro-complaint.txt".
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasTitle> "﻿Barca make San Siro complaint Barcelona take concerns to UEFA over state of Milan pitch".
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#ac_milan_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#zlatan_ibrahimovic>.
+
+<http://bk.sport.owl#document1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Bayern-focusing-on-Europe.txt".
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasTitle> "﻿Bayern focusing on Europe Watch Bayern Munich v Real Madrid live on Sky Sports 2HD".
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#la_liga>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#bastian_schweinsteiger>.
+
+<http://bk.sport.owl#document2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Bayern-will-play-to-win-.txt".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasTitle> "﻿Bayern will 'play to win' German giants taking nothing for granted in Europe".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#mario_gomez>.
+
+<http://bk.sport.owl#document3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Benfica%20boss%20bemoans%20defeat.txt".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasTitle> "﻿Benfica boss bemoans defeat Jesus believes his side should have beaten Chelsea".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#maxi_pereira>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Benfica-plan-protest.txt".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasTitle> "﻿Benfica plan protest Portuguese giants not happy with refereeing in Chelsea defeat".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#john_terry>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#maxi_pereira>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+
+<http://bk.sport.owl#document5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Blues-receive-Drogba-boost.txt".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasTitle> "﻿Blues receive Drogba boost Di Matteo defends tactics as striker returns to training".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#john_terry>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#gary_cahill>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#ac_milan_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#petr_cech>.
+
+<http://bk.sport.owl#document6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Busquets-braced-for-tough-test.txt".
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasTitle> "﻿Busquets braced for tough test Barca midfielder hoping tie is not as close as three years ago".
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#sergio_busquets>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+
+<http://bk.sport.owl#document7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cahill-Barca-can-be-beaten.txt".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasTitle> "﻿Cahill - Barca can be beaten Chelsea defender ready for clash with 'phenomenal' outfit".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#gary_cahill>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#ac_milan_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cahill-fit-to-fill-Luiz-void.txt".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasTitle> "﻿Cahill fit to fill Luiz void Free-kick was one of my favourites, says Lampard".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#david_luiz>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#gary_cahill>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#branislav_ivanovic>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#frank_lampard>.
+
+<http://bk.sport.owl#document9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cahill-joy-at-fantastic-result-.txt".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasTitle> "﻿Cahill joy at 'fantastic result' Defender sounds note of caution ahead of second leg".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_luiz>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#gary_cahill>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+
+<http://bk.sport.owl#document10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cahill-proud-of-Barca-display.txt".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasTitle> "﻿Cahill proud of Barca display Defender believes he can compete with the best after facing Barca".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#john_terry>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_luiz>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#gary_cahill>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_cole>.
+
+<http://bk.sport.owl#document11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cardozo-We-don-t-fear-Blues.txt".
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasTitle> "﻿Cardozo - We don't fear Blues Benfica striker feeling confident ahead of second leg".
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#ac_milan_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#salomon_kalou>.
+
+<http://bk.sport.owl#document12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cech-hails-battling-Blues.txt".
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasTitle> "﻿Cech hails battling Blues Chelsea keeper calls for concentrated effort at Camp Nou".
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#john_terry>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#petr_cech>.
+
+<http://bk.sport.owl#document13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cech-Messi-only-human.txt".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasTitle> "﻿Cech - Messi only human Keeper hopeful Blues can deal with 'exceptional' forward".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#la_liga>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#petr_cech>.
+
+<http://bk.sport.owl#document14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cech-No-Camp-Nou-concern.txt".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasTitle> "﻿Cech - No Camp Nou concern Blues keeper in confident mood ahead of trip to Catalunya".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#petr_cech>.
+
+<http://bk.sport.owl#document15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cech-We-are-capable.txt".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasTitle> "﻿Cech - We are capable Keeper says Chelsea can beat Barcelona".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#petr_cech>.
+
+<http://bk.sport.owl#document16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cesc-wants-more-Chelsea-woe.txt".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasTitle> "﻿Cesc wants more Chelsea woe Midfielder backing Barca to do same again against Blues".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#frank_lampard>.
+
+<http://bk.sport.owl#document17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Chelsea-trio-return.txt".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasTitle> "﻿Chelsea trio return Drogba, Luiz and Meireles all take part in Tuesday preparations".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#raul_meireles>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#david_luiz>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#salomon_kalou>.
+
+<http://bk.sport.owl#document18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Chelsea-unfancied.txt".
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasTitle> "﻿Chelsea unfancied Blues not fancied to make it past Barca".
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+
+<http://bk.sport.owl#document19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Cole-backs-Blues-to-beat-Barca.txt".
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasTitle> "﻿Cole backs Blues to beat Barca Full-back confident Chelsea can progress".
+<http://bk.sport.owl#chelsea_fc> <http://bk.sport.owl#face> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_cole>.
+
+<http://bk.sport.owl#document20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Di-Matteo-blasts-Blues-critics.txt".
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasTitle> "﻿Di Matteo blasts Blues critics Physical and mental demands are crazy, says Chelsea boss".
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsene_wenger>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#paul_scholes>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#ryan_giggs>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#stoke_city_fc>.
+
+<http://bk.sport.owl#document21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Di-Matteo-dodges-job-debate.txt".
+<http://bk.sport.owl#document21> <http://bk.sport.owl#hasTitle> "﻿Di Matteo dodges job debate Italian only focused on winning matches for Chelsea".
+<http://bk.sport.owl#document21> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+
+<http://bk.sport.owl#document22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document22> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Di-Matteo-hails-Chelsea-drive.txt".
+<http://bk.sport.owl#document22> <http://bk.sport.owl#hasTitle> "﻿Di Matteo hails Chelsea drive Blues boss insists Barca win is not about him".
+<http://bk.sport.owl#document22> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document22> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document22> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document22> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+
+<http://bk.sport.owl#document23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Di-Matteo-It-s-in-our-hands.txt".
+<http://bk.sport.owl#document23> <http://bk.sport.owl#hasTitle> "﻿Di Matteo - It's in our hands Chelsea caretaker manager believes his side can still finish third.".
+<http://bk.sport.owl#document23> <http://bk.sport.owl#contain> <http://bk.sport.owl#fulham_fc>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#contain> <http://bk.sport.owl#salomon_kalou>.
+
+<http://bk.sport.owl#document24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document24> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Di-Matteo-seeks-perfection.txt".
+<http://bk.sport.owl#document24> <http://bk.sport.owl#hasTitle> "﻿Di Matteo seeks perfection Chelsea boss knows they must be at their best against Barcelona".
+<http://bk.sport.owl#document24> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document24> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document24> <http://bk.sport.owl#about> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document24> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document24> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+
+<http://bk.sport.owl#document25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document25> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Di-Matteo-targets-weaknesses.txt".
+<http://bk.sport.owl#document25> <http://bk.sport.owl#hasTitle> "﻿Di Matteo targets weaknesses Caretaker Chelsea boss looks to beat Barcelona on Wednesday".
+<http://bk.sport.owl#document25> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document25> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document25> <http://bk.sport.owl#contain> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document25> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document25> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+
+<http://bk.sport.owl#document26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Di-Matteo-warns-his-players.txt".
+<http://bk.sport.owl#document26> <http://bk.sport.owl#hasTitle> "﻿Di Matteo warns his players Chelsea boss knows side came close to throwing away Villa win".
+<http://bk.sport.owl#document26> <http://bk.sport.owl#contain> <http://bk.sport.owl#daniel_sturridge>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#contain> <http://bk.sport.owl#fernando_torres>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#contain> <http://bk.sport.owl#branislav_ivanovic>.
+
+<http://bk.sport.owl#document27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document27> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Draw-delights-Cahill.txt".
+<http://bk.sport.owl#document27> <http://bk.sport.owl#hasTitle> "﻿Draw delights Cahill Blues defender delighted with Emirates display".
+<http://bk.sport.owl#document27> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document27> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document27> <http://bk.sport.owl#about> <http://bk.sport.owl#gary_cahill>.
+<http://bk.sport.owl#document27> <http://bk.sport.owl#contain> <http://bk.sport.owl#robin_van_persie>.
+<http://bk.sport.owl#document27> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document27> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+
+<http://bk.sport.owl#document28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Drogba-has-good-Barca-memories.txt".
+<http://bk.sport.owl#document28> <http://bk.sport.owl#hasTitle> "﻿Drogba has good Barca memories Referee named for Chelsea v Barcelona fixture".
+<http://bk.sport.owl#document28> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#contain> <http://bk.sport.owl#peter_crouch>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#contain> <http://bk.sport.owl#nemanja_vidic>.
+
+<http://bk.sport.owl#document29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Drogba-is-far-from-finished.txt".
+<http://bk.sport.owl#document29> <http://bk.sport.owl#hasTitle> "﻿Drogba is far from finished Striker planning for three more years, as he eyes Barca scalp".
+<http://bk.sport.owl#document29> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+
+<http://bk.sport.owl#document30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document30> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Drogba-It-s-a-tough-road.txt".
+<http://bk.sport.owl#document30> <http://bk.sport.owl#hasTitle> "﻿Drogba - It's a tough road Chelsea striker reflects on unique challenge of facing Barca".
+<http://bk.sport.owl#document30> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document30> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document30> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document30> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+
+<http://bk.sport.owl#document31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document31> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Fabregas-Like-a-dream.txt".
+<http://bk.sport.owl#document31> <http://bk.sport.owl#hasTitle> "﻿Fabregas - Like a dream Midfielder delighted with how first year at Barcelona has gone".
+<http://bk.sport.owl#document31> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document31> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document31> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document31> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+
+<http://bk.sport.owl#document32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document32> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Gaitan-focused-on-Benfica.txt".
+<http://bk.sport.owl#document32> <http://bk.sport.owl#hasTitle> "﻿Gaitan focused on Benfica Playmaker not paying attention to transfer talk".
+<http://bk.sport.owl#document32> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document32> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document32> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+
+<http://bk.sport.owl#document33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document33> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Garcia-targets-turnaround.txt".
+<http://bk.sport.owl#document33> <http://bk.sport.owl#hasTitle> "﻿Garcia targets turnaround Midfielder says Benfica were superior in first leg despite 1-0 loss".
+<http://bk.sport.owl#document33> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document33> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document33> <http://bk.sport.owl#contain> <http://bk.sport.owl#salomon_kalou>.
+
+<http://bk.sport.owl#document34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Gourlay-hails-improved-Blues.txt".
+<http://bk.sport.owl#document34> <http://bk.sport.owl#hasTitle> "﻿Gourlay hails improved Blues Terry and Drogba welcome Champions League progress".
+<http://bk.sport.owl#document34> <http://bk.sport.owl#about> <http://bk.sport.owl#john_terry>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document35> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Guardiola-aware-of-Blues-threat.txt".
+<http://bk.sport.owl#document35> <http://bk.sport.owl#hasTitle> "﻿Guardiola aware of Blues threat Boss 'struggling' to see how Barca can score".
+<http://bk.sport.owl#document35> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document35> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document35> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document35> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document36> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Guardiola-looks-to-second-leg.txt".
+<http://bk.sport.owl#document36> <http://bk.sport.owl#hasTitle> "﻿Guardiola looks to second leg Barca coach admits they need to create more".
+<http://bk.sport.owl#document36> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document36> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document36> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document36> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+
+<http://bk.sport.owl#document37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document37> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Guardiola-set-for-Chelsea-test.txt".
+<http://bk.sport.owl#document37> <http://bk.sport.owl#hasTitle> "﻿Guardiola set for Chelsea test Barca coach says Tuesday night will be defining moment in season".
+<http://bk.sport.owl#document37> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document37> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document37> <http://bk.sport.owl#contain> <http://bk.sport.owl#sami_khedira>.
+<http://bk.sport.owl#document37> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document37> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document37> <http://bk.sport.owl#contain> <http://bk.sport.owl#cristiano_ronaldo>.
+
+<http://bk.sport.owl#document38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document38> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Heynckes-happy-with-Olic.txt".
+<http://bk.sport.owl#document38> <http://bk.sport.owl#hasTitle> "﻿Heynckes happy with Olic Ribery also full of praise for Bayern's two-goal hero".
+<http://bk.sport.owl#document38> <http://bk.sport.owl#about> <http://bk.sport.owl#david_alaba>.
+<http://bk.sport.owl#document38> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document38> <http://bk.sport.owl#about> <http://bk.sport.owl#ivica_olic>.
+
+<http://bk.sport.owl#document39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document39> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Heynckes-Win-was-deserved.txt".
+<http://bk.sport.owl#document39> <http://bk.sport.owl#hasTitle> "﻿Heynckes - Win was deserved Goal-scorer Ribery disappointed to concede goal".
+<http://bk.sport.owl#document39> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document39> <http://bk.sport.owl#about> <http://bk.sport.owl#mario_gomez>.
+
+<http://bk.sport.owl#document40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document40> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Hoddle-backs-Di-Matteo.txt".
+<http://bk.sport.owl#document40> <http://bk.sport.owl#hasTitle> "﻿Hoddle backs Di Matteo But former boss believes league is real measure of success".
+<http://bk.sport.owl#document40> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document40> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document40> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document40> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document40> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document40> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document41> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Iniesta-bemoans-injustice-.txt".
+<http://bk.sport.owl#document41> <http://bk.sport.owl#hasTitle> "﻿Iniesta bemoans 'injustice' Barcelona star insists defeat to Chelsea was 'unjust'".
+<http://bk.sport.owl#document41> <http://bk.sport.owl#contain> <http://bk.sport.owl#sergio_busquets>.
+<http://bk.sport.owl#document41> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document41> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document41> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+
+<http://bk.sport.owl#document42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document42> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Kalou-eyes-Euro-glory.txt".
+<http://bk.sport.owl#document42> <http://bk.sport.owl#hasTitle> "﻿Kalou eyes Euro glory Chelsea forward will not relax ahead of return leg with Benfica".
+<http://bk.sport.owl#document42> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document42> <http://bk.sport.owl#contain> <http://bk.sport.owl#ac_milan_fc>.
+<http://bk.sport.owl#document42> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document42> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document42> <http://bk.sport.owl#about> <http://bk.sport.owl#salomon_kalou>.
+
+<http://bk.sport.owl#document43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document43> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Kalou-unfazed-by-Barca-test.txt".
+<http://bk.sport.owl#document43> <http://bk.sport.owl#hasTitle> "﻿Kalou unfazed by Barca test Cech also looking forward to facing Catalan giants".
+<http://bk.sport.owl#document43> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document43> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document43> <http://bk.sport.owl#about> <http://bk.sport.owl#salomon_kalou>.
+<http://bk.sport.owl#document43> <http://bk.sport.owl#contain> <http://bk.sport.owl#petr_cech>.
+
+<http://bk.sport.owl#document44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document44> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/skysports.com.txt/002/Lahm-Team-effort-can-halt-Ron.txt".
+<http://bk.sport.owl#document44> <http://bk.sport.owl#hasTitle> "﻿Lahm - Team effort can halt Ron Lahm relishing chance to play against Real superstar".
+<http://bk.sport.owl#document44> <http://bk.sport.owl#contain> <http://bk.sport.owl#toni_kroos>.
+<http://bk.sport.owl#document44> <http://bk.sport.owl#contain> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document44> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document44> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document44> <http://bk.sport.owl#about> <http://bk.sport.owl#cristiano_ronaldo>.
+<http://bk.sport.owl#document44> <http://bk.sport.owl#about> <http://bk.sport.owl#philipp_lahm>.
+

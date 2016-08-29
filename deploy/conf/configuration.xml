@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : configuration.xml
+    Created on : March 11, 2012, 11:12 AM
+    Author     : congnh
+    Description:
+        Purpose of the document follows.
+-->
+
+<configuration>
+    <!--
+    
+    -->
+    <service-list>
+        <service host="localhost" port="1099"/>
+    </service-list>
+    <!-- 
+    Application always browse in the first corpus 
+    -->
+    <corpus-list>
+        <corpus dir="./corpus"/>
+        <corpus dir="D:/corpus"/>
+        <corpus dir="../corpus"/>
+        <corpus dir="C:/installations"/>
+    </corpus-list>
+</configuration>

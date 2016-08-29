@@ -1,0 +1,235 @@
+<http://bk.sport.owl#document0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20SPORT%20%20Football%20%20My%20Club%20%20Everton%20%20Everton%20tie%20up%20Moyes%20until%202009_stm.txt".
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasTitle> "﻿Everton tie up Moyes until 2009 Everton manager David Moyes has signed a new contract that will keep him at Goodison Park until 2009.".
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_moyes>.
+
+<http://bk.sport.owl#document1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Arsenal%20Arsene%20Wenger%20says%20he%20has%20never%20considered%20quitting.txt".
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasTitle> "﻿Arsenal: Arsene Wenger says he has never considered quitting".
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#arsene_wenger>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Arsene%20Wenger%20'safe%20regardless%20of%20Arsenal's%20Champions%20League%20fate'.txt".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasTitle> "﻿Arsene Wenger 'safe regardless of Arsenal's Champions League fate' Arsene Wenger will attend Arsenal's monthly board meeting on Thursday but his future is not on the agenda.".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#marouane_chamakh>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#arsene_wenger>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#sebastien_squillaci>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_villa>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#nicklas_bendtner>.
+
+<http://bk.sport.owl#document3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Arsene%20Wenger%20happy%20he%20signed%20Theo%20Walcott%20over%20Gareth%20Bale.txt".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasTitle> "﻿Arsene Wenger happy he signed Theo Walcott over Gareth Bale Arsenal manager Arsene Wenger says he has no regrets about his decision to sign Theo Walcott over Gareth Bale.".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#arsene_wenger>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#la_liga>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth_bale>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#theo_walcott>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#cristiano_ronaldo>.
+
+<http://bk.sport.owl#document4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Aston%20Villa%201-3%20Everton.txt".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasTitle> "﻿Steven Pienaar, Marouane Fellaini and Nikica Jelavic all scored as Paul Lambert suffered a nightmare first home league game in charge of Aston Villa.".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#sylvain_distin>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_pienaar>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#ciaran_clark>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#leighton_baines>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#kevin_mirallas>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil_neville>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#shay_given>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#tim_howard>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#marouane_fellaini>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_naismith>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#andreas_weimann>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#barry_bannan>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#nikica_jelavic>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil_jagielka>.
+
+<http://bk.sport.owl#document5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Aston%20Villa%20sign%20Christian%20Benteke%20and%20Ashley%20Westwood.txt".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasTitle> "﻿Aston Villa sign Christian Benteke and Ashley Westwood Aston Villa have completed the signings of Genk striker Christian Benteke and Crewe midfielder Ashley Westwood.".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#darren_bent>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#christian_benteke>.
+
+<http://bk.sport.owl#document6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20David%20Moyes%20says%20his%20Everton%20future%20is%20not%20a%20distraction.txt".
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasTitle> "﻿David Moyes says his Everton future is not a distraction Everton manager David Moyes has rejected claims that uncertainty about his future is affecting the team after one win in five Premier League matches "I think that's rubbish," he said.".
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#david_moyes>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#norwich_city_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#kevin_mirallas>.
+
+<http://bk.sport.owl#document7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Man%20City%20I'm%20the%20best%20manager%20in%20England%20-%20Roberto%20Mancini.txt".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasTitle> "﻿Man City: I'm the best manager in England - Roberto Mancini Manchester City boss Roberto Mancini says he is currently "the best manager in England" and is not facing the sack.".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#sergio_aguero>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+
+<http://bk.sport.owl#document8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Man%20City%20Roberto%20Mancini%20dismisses%20sacking%20claims.txt".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasTitle> "﻿Man City: Roberto Mancini dismisses sacking claims Manchester City boss Roberto Mancini has said critics who believe he should be sacked if the club lose to Leeds on Sunday "don't understand football".".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+
+<http://bk.sport.owl#document9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Man%20Utd%20boss%20Sir%20Alex%20Ferguson%20demands%20Nani%20consistency.txt".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasTitle> "﻿Man Utd boss Sir Alex Ferguson demands Nani consistency Sir Alex Ferguson says Nani can secure a long-term Manchester United future if he consistently performs well.".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+
+<http://bk.sport.owl#document10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20City%20Roberto%20Mancini%20swears%20over%20job%20speculation.txt".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasTitle> "﻿Manchester City: Roberto Mancini swears over job speculation Manchester City boss Roberto Mancini swore in front of reporters when asked about speculation over his future.".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20United%20winger%20Nani%20out%20for%2010%20days%20with%20injury.txt".
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasTitle> "﻿Manchester United winger Nani out for 10 days with injury Manchester United winger Nani will miss Saturday's Premier League game against Aston Villa after being ruled out for 10 days with a hamstring injury.".
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#chris_smalling>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20United's%20Phil%20Jones%20faces%20nervous%20wait%20on%20ankle%20injury.txt".
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasTitle> "﻿Manchester United's Phil Jones faces nervous wait on ankle injury Manchester United's Phil Jones faces a nervous wait to determine the severity of an ankle injury suffered during Monday's 2-1 FA Cup win over Reading.".
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#phil_jones>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens_park_rangers_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#javier_hernandez>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#cristiano_ronaldo>.
+
+<http://bk.sport.owl#document13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20United's%20Ryan%20Tunnicliffe%20agrees%20Barnsley%20loan.txt".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasTitle> "﻿Manchester United's Ryan Tunnicliffe agrees Barnsley loan Barnsley have signed Manchester United's Ryan Tunnicliffe on a 28-day loan deal after Scott Golbourne was ruled out for the rest of the season.".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#ryan_tunnicliffe>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+
+<http://bk.sport.owl#document14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Mauricio%20Pochettino%20hails%20'incredible'%20Southampton%20victory.txt".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasTitle> "﻿Mauricio Pochettino hails 'incredible' Southampton victory Southampton manager Mauricio Pochettino paid tribute to his side, calling their win over Premier League champions Manchester City "incredible".".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#edin_dzeko>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_davis>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#gareth_barry>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#joe_hart>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Nani%20Sir%20Alex%20Ferguson%20says%20winger%20not%20for%20sale%20in%20January.txt".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasTitle> "﻿Nani: Sir Alex Ferguson says winger not for sale in January Manchester United boss Sir Alex Ferguson insists winger Nani will not be sold in January despite reported interest from Arsenal and Tottenham.".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#paul_scholes>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#shinji_kagawa>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#robin_van_persie>.
+
+<http://bk.sport.owl#document16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Paul%20Lambert%20says%20Christian%20Benteke%20will%20stay%20at%20Aston%20Villa.txt".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasTitle> "﻿Paul Lambert says Christian Benteke will stay at Aston Villa Aston Villa manager Paul Lambert says he will decide on the future of Christian Benteke after insisting the striker will stay at the club.".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsene_wenger>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#darren_bent>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#christian_benteke>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Paul%20Lambert%20says%20he%20faces%20a%20'huge'%20job%20restoring%20Aston%20Villa.txt".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasTitle> "﻿Paul Lambert says he faces a 'huge' job restoring Aston Villa Paul Lambert says he faces a "huge" job restoring the fortunes of Aston Villa after a demoralising defeat to Everton.".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_pienaar>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#ciaran_clark>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#david_moyes>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#marouane_fellaini>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#nikica_jelavic>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#kevin_mirallas>.
+
+<http://bk.sport.owl#document18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Rickie%20Lambert%20warns%20of%20Southampton%20relegation%20fight.txt".
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasTitle> "﻿Rickie Lambert warns of Southampton relegation fight Southampton striker Rickie Lambert has warned his team-mates that they are now in a relegation dog-fight after their recent Premier League winless run.".
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+
+<http://bk.sport.owl#document19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Roberto%20Mancini%20'could%20face%20Manchester%20City%20sack'.txt".
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasTitle> "﻿Roberto Mancini 'could face Manchester City sack' Former Manchester City defender Danny Mills believes manager Roberto Mancini could be sacked if his side suffer an FA Cup exit against Leeds on Sunday.".
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Southampton%203-1%20Manchester%20City.txt".
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasTitle> "﻿Manchester City's title defence suffered a huge blow on the south coast as they gifted Southampton victory with a series of glaring errors at the back.".
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#aleksandar_kolarov>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#pablo_zabaleta>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#vincent_kompany>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#artur>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#joe_hart>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#edin_dzeko>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#sergio_aguero>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_davis>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth_barry>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#joleon_lescott>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#james_milner>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+

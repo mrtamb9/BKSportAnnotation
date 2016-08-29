@@ -1,0 +1,263 @@
+<http://bk.sport.owl#document0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/adebayor-double-helps-spurs-beat-swans.txt".
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasTitle> "﻿Adebayor double helps Spurs beat Swans".
+<http://bk.sport.owl#tottenham_hotspur_fc> <http://bk.sport.owl#defeat> <http://bk.sport.owl#swansea_city_fc>.
+<http//bk.sport.owl#tottenham_hotspur_fc_swansea_city_fc_match> <http://bk.sport.owl#hasScore> "3:1"
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#rafael_van_der_vaart>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#emmanuel_adebayor>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#gylfi_sigurdsson>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#swansea_city_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#aaron_lennon>.
+
+<http://bk.sport.owl#document1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/arsenal-strike-late-to-beat-newcastle.txt".
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasTitle> "﻿Arsenal strike late to beat Newcastle".
+<http//bk.sport.owl#arsenal_fc_newcastle_united_fc_match> <http://bk.sport.owl#hasScore> "2:1"
+<http://bk.sport.owl#arsenal_fc> <http://bk.sport.owl#defeat> <http://bk.sport.owl#newcastle_united_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#tomas_rosicky>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#gervinho>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#newcastle_united_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#robin_van_persie>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#hatem_ben_arfa>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#theo_walcott>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#thomas_vermaelen>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#wojciech_szczesny>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/aston-villa-bolton-match-postponed.txt".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasTitle> "﻿Aston Villa v Bolton match postponed".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#bolton_wanderers_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#fabrice_muamba>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#stoke_city_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/aston-villa-earn-top-equality-award.txt".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasTitle> "﻿Aston Villa earn top Equality award".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/aston-villa-swoop-for-australian-holman.txt".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasTitle> "﻿Villa swoop for Australian Holman".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#uefa_europa_league>.
+
+<http://bk.sport.owl#document5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/bilic-impressed-with-jelavic-form.txt".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasTitle> "﻿Bilic impressed with Jelavic form".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#nikica_jelavic>.
+
+<http://bk.sport.owl#document6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/britton-secures-swansea-deal.txt".
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasTitle> "﻿Britton secures Swansea deal".
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#leon_britton>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#swansea_city_fc>.
+
+<http://bk.sport.owl#document7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/cech-praises-positive-medical-changes.txt".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasTitle> "﻿Cech praises positive medical changes".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#stephen_hunt>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#gary_cahill>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#fabrice_muamba>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#petr_cech>.
+
+<http://bk.sport.owl#document8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/chelsea-face-benfica-in-champions-league.txt".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasTitle> "﻿Chelsea face Benfica in Champions League".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_luiz>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#ac_milan_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/chelsea-win-sets-up-barcelona-semi.txt".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasTitle> "﻿Chelsea win sets up Barcelona semi".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#raul_meireles>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_di_matteo>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#maxi_pereira>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#fernando_torres>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#ac_milan_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_cole>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#frank_lampard>.
+
+<http://bk.sport.owl#document10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/cisse-hails-ben-arfa-talent.txt".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasTitle> "﻿Cisse hails Ben Arfa's talent".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#newcastle_united_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#hatem_ben_arfa>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#papiss_cisse>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcenola_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/cisse-hits-two-as-magpies-sink-baggies.txt".
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasTitle> "﻿Cisse hits two as Magpies sink Baggies".
+<http://bk.sport.owl#west_bromwich_albion_fc> <http://bk.sport.owl#loose> <http://bk.sport.owl#newcastle_united_fc>.
+<http//bk.sport.owl#west_bromwich_albion_fc_newcastle_united_fc_match> <http://bk.sport.owl#hasScore> "1:3"
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#newcastle_united_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#papiss_cisse>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#hatem_ben_arfa>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#tim_krul>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#mike_williamson>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#shane_long>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+
+<http://bk.sport.owl#document12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/cisse-strikes-twice-to-sink-liverpool.txt".
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasTitle> "﻿Cisse strikes twice to sink Liverpool".
+<http://bk.sport.owl#newcastle_united_fc> <http://bk.sport.owl#defeat> <http://bk.sport.owl#liverpool_fc>.
+<http//bk.sport.owl#newcastle_united_fc_liverpool_fc_match> <http://bk.sport.owl#hasScore> "2:0"
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#pepe>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#newcastle_united_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#craig_bellamy>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#alan_pardew>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#papiss_cisse>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#hatem_ben_arfa>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#mike_williamson>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#andy_carroll>.
+
+<http://bk.sport.owl#document13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/dalglish-and-reina-salute-gerrard.txt".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasTitle> "﻿Dalglish and Reina salute Gerrard".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#pepe>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#jay_spearing>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#jamie_carragher>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#stoke_city_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_gerrard>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#kenny_dalglish>.
+
+<http://bk.sport.owl#document14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/dalglish-retains-hope-over-adam-injury.txt".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasTitle> "﻿Dalglish retains hope over Adam injury".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#wigan_athletic_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#newcastle_united_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens_park_rangers_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#craig_bellamy>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#martin_kelly>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#charlie_adam>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#daniel_agger>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#glen_johnson>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#kenny_dalglish>.
+
+<http://bk.sport.owl#document15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/desailly-backs-barclays-bikes-scheme.txt".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasTitle> "﻿Desailly backs Barclays bike scheme".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#fulham_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens_park_rangers_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/ferguson-praises-man-utd-spirit.txt".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasTitle> "﻿Ferguson praises Man Utd spirit".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#wolverhampton_wanderers_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#wayne_rooney>.
+
+<http://bk.sport.owl#document17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/ferguson-salutes-rio-influence.txt".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasTitle> "﻿Ferguson praises Ferdinand influence".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#fulham_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#rio_ferdinand>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#martin_jol>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/gerrard-hat-trick-inspires-liverpool.txt".
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasTitle> "﻿Gerrard hat-trick inspires Liverpool".
+<http//bk.sport.owl#liverpool_fc_everton_fc_match> <http://bk.sport.owl#hasScore> "3:0"
+<http://bk.sport.owl#liverpool_fc> <http://bk.sport.owl#defeat> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_pienaar>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#luis_suarez>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#tim_howard>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#martin_kelly>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#andy_carroll>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_gerrard>.
+
+<http://bk.sport.owl#document19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/howard-miserly-defence-key-to-everton-form.txt".
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasTitle> "﻿Howard: Miserly defence key to Everton form".
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#darron_gibson>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#scott_sinclair>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#tim_howard>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#david_moyes>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#phil_jagielka>.
+
+<http://bk.sport.owl#document20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/jones-full-of-praise-for-blackburn-boss-kean.txt".
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasTitle> "﻿Jones full of praise for Blackburn boss Kean".
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#blackburn_rovers_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil_jones>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#sunderland_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens_park_rangers_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#wolverhampton_wanderers_fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/premierleague.com.txt/001/lambert-delighted-with-norwich-spirit.txt".
+<http://bk.sport.owl#document21> <http://bk.sport.owl#hasTitle> "﻿Lambert delighted with Norwich spirit".
+<http://bk.sport.owl#document21> <http://bk.sport.owl#contain> <http://bk.sport.owl#fulham_fc>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#about> <http://bk.sport.owl#simeon_jackson>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#contain> <http://bk.sport.owl#ryan_bennett>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#contain> <http://bk.sport.owl#clint_dempsey>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#about> <http://bk.sport.owl#norwich_city_fc>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#about> <http://bk.sport.owl#aaron_wilbraham>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#contain> <http://bk.sport.owl#damien_duff>.
+

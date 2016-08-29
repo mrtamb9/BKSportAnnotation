@@ -1,0 +1,244 @@
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#everton-fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#david-moyes>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#goodison-park-football-stadium>.
+<http://bk.sport.owl#document0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20SPORT%20%20Football%20%20My%20Club%20%20Everton%20%20Everton%20tie%20up%20Moyes%20until%202009_stm.txt".
+
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsene-wenger>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal-fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#emirates-stadium-football-stadium>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#emirates-football-stadium>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#fc-bayern-munich-fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#football-league-two>.
+<http://bk.sport.owl#document1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Arsenal%20Arsene%20Wenger%20says%20he%20has%20never%20considered%20quitting.txt".
+
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#sebastien-squillaci>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcelona-fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#fc-bayern-munich-fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsene-wenger>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea-fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal-fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#emirates-stadium-football-stadium>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#emirates-football-stadium>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#football-league-two>.
+<http://bk.sport.owl#document2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Arsene%20Wenger%20'safe%20regardless%20of%20Arsenal's%20Champions%20League%20fate'.txt".
+
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#uefa-europa-league>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth-bale>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#white-hart-lane-football-stadium>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsene-wenger>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal-fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcelona-fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#la-liga>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#theo-walcott>.
+<http://bk.sport.owl#tottenham-hotspur-fc> <http://bk.sport.owl#makeSuprise> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#tottenham-hotspur-fc> <http://bk.sport.owl#makeSuprise> <http://bk.sport.owl#uefa-europa-league>.
+<http://bk.sport.owl#tottenham-hotspur-fc> <http://bk.sport.owl#makeSuprise> <http://bk.sport.owl#white-hart-lane-football-stadium>.
+<http://bk.sport.owl#gareth-bale> <http://bk.sport.owl#makeSuprise> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#gareth-bale> <http://bk.sport.owl#makeSuprise> <http://bk.sport.owl#uefa-europa-league>.
+<http://bk.sport.owl#gareth-bale> <http://bk.sport.owl#makeSuprise> <http://bk.sport.owl#white-hart-lane-football-stadium>.
+<http://bk.sport.owl#document3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Arsene%20Wenger%20happy%20he%20signed%20Theo%20Walcott%20over%20Gareth%20Bale.txt".
+
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#sylvain-distin>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#everton-fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#marouane-fellaini>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#shay-given>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#steven-pienaar>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#tim-howard>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil-neville>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#ciaran-clark>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#leighton-baines>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil-jagielka>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#barry-bannan>.
+<http://bk.sport.owl#everton-fc> <http://bk.sport.owl#back> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#steven-pienaar> <http://bk.sport.owl#score> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#steven-pienaar> <http://bk.sport.owl#score> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Aston%20Villa%201-3%20Everton.txt".
+
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#koninklijke-racing-club-genk-fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Aston%20Villa%20sign%20Christian%20Benteke%20and%20Ashley%20Westwood.txt".
+
+<http://bk.sport.owl#david-moyes> <http://bk.sport.owl#said> "I don't think he is firing on all cylinders,"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#david-moyes> <http://bk.sport.owl#said> "Most seasons we've tended to finish sixth, seventh or eighth and if you ask the people who know football they would say that's about as good as Everton can do,"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#everton-fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#david-moyes>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#goodison-park-football-stadium>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#norwich-city-fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#football-league-one>.
+<http://bk.sport.owl#document6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20David%20Moyes%20says%20his%20Everton%20future%20is%20not%20a%20distraction.txt".
+
+<http://bk.sport.owl#roberto-mancini> <http://bk.sport.owl#said> "I hope Sergio will be like this until the end of the season,"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#roberto-mancini> <http://bk.sport.owl#said> "In the last 15 months I am the best manager in England,"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#uefa-europa-league>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto-mancini>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#fc-bayern-munich-fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcelona-fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Man%20City%20I'm%20the%20best%20manager%20in%20England%20-%20Roberto%20Mancini.txt".
+
+<http://bk.sport.owl#roberto-mancini> <http://bk.sport.owl#said> "don't understand football"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#roberto-mancini> <http://bk.sport.owl#said> "don't understand football"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#etihad-football-stadium>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto-mancini>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Man%20City%20Roberto%20Mancini%20dismisses%20sacking%20claims.txt".
+
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal-fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#alex-ferguson>.
+<http://bk.sport.owl#document9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Man%20Utd%20boss%20Sir%20Alex%20Ferguson%20demands%20Nani%20consistency.txt".
+
+<http://bk.sport.owl#roberto-mancini> <http://bk.sport.owl#said> "the best manager in England"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto-mancini>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20City%20Roberto%20Mancini%20swears%20over%20job%20speculation.txt".
+
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#villa-park-football-stadium>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#chris-smalling>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#alex-ferguson>.
+<http://bk.sport.owl#document11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20United%20winger%20Nani%20out%20for%2010%20days%20with%20injury.txt".
+
+<http://bk.sport.owl#alex-ferguson> <http://bk.sport.owl#said> "He's got great talent, we know that,"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#phil-jones>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#old-trafford-football-stadium>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#alex-ferguson>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens-park-rangers-fc>.
+<http://bk.sport.owl#alex-ferguson> <http://bk.sport.owl#back> <http://bk.sport.owl#old-trafford-football-stadium>.
+<http://bk.sport.owl#document12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20United's%20Phil%20Jones%20faces%20nervous%20wait%20on%20ankle%20injury.txt".
+
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#ryan-tunnicliffe>.
+<http://bk.sport.owl#document13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Manchester%20United's%20Ryan%20Tunnicliffe%20agrees%20Barnsley%20loan.txt".
+
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth-barry>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton-fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#joe-hart>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#alex-ferguson>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Mauricio%20Pochettino%20hails%20'incredible'%20Southampton%20victory.txt".
+
+<http://bk.sport.owl#alex-ferguson> <http://bk.sport.owl#said> "We need a Nani. He offers something different from the other players,"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#old-trafford-football-stadium>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal-fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham-hotspur-fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#alex-ferguson>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#paul-scholes>.
+<http://bk.sport.owl#document15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Nani%20Sir%20Alex%20Ferguson%20says%20winger%20not%20for%20sale%20in%20January.txt".
+
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsene-wenger>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal-fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#fc-bayern-munich-fc>.
+<http://bk.sport.owl#document16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Paul%20Lambert%20says%20Christian%20Benteke%20will%20stay%20at%20Aston%20Villa.txt".
+
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#villa-park-football-stadium>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#everton-fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#david-moyes>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#marouane-fellaini>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#ciaran-clark>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#aston-villa-fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#goodison-park-football-stadium>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven-pienaar>.
+<http://bk.sport.owl#document17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Paul%20Lambert%20says%20he%20faces%20a%20'huge'%20job%20restoring%20Aston%20Villa.txt".
+
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Rickie%20Lambert%20warns%20of%20Southampton%20relegation%20fight.txt".
+
+<http://bk.sport.owl#manchester-united-fc> <http://bk.sport.owl#defeat> <http://bk.sport.owl#everton-fc> .
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#etihad-football-stadium>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#uefa-europa-league>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto-mancini>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton-fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#chelsea-fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#champions-league>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#amsterdamsche-football-club-ajax-fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#barcelona-fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#roberto-mancini> <http://bk.sport.owl#faceWith> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Roberto%20Mancini%20'could%20face%20Manchester%20City%20sack'.txt".
+
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#old-trafford-football-stadium>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-united-fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#pablo-zabaleta>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier-league>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth-barry>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton-fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#aleksandar-kolarov>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#artur>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#joe-hart>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#joleon-lescott>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester-city-fc>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto-mancini>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#vincent-kompany>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#contain> <http://bk.sport.owl#james-milner>.
+<http://bk.sport.owl#gareth-barry> <http://bk.sport.owl#back> <http://bk.sport.owl#joe-hart>.
+<http://bk.sport.owl#document20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bbc.co.uk.txt/premierleague/001/BBC%20Sport%20-%20Southampton%203-1%20Manchester%20City.txt".
+

@@ -1,0 +1,362 @@
+<http://bk.sport.owl#document0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Aston%20Villa%202-1%20West%20Ham%20%20Premier%20League%20match%20report%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasTitle> "﻿Charles N'Zogbia stars to give Aston Villa priceless win over West Ham Charles N'Zogbia has not done a lot to make Aston Villa feel that the £9.5m they paid for him was money well spent but his contribution to his side's victory over West Ham could turn out to be priceless.".
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#darren_bent>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#wigan_athletic_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#gabriel_agbonlahor>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#charles_n_zogbia>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#about> <http://bk.sport.owl#christian_benteke>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#jussi_jaaskelainen>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#andreas_weimann>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#andy_carroll>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#contain> <http://bk.sport.owl#gabriel>.
+
+<http://bk.sport.owl#document1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Cameron%20Jerome%20strikes%20to%20open%20window%20of%20rich%20opportunity%20for%20Stoke%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasTitle> "﻿Cameron Jerome strikes to open window of rich opportunity for Stoke Tony Pulis had a very successful transfer window – not so much because of the players he brought in to Stoke City, although the £5m that secured the young goalkeeper Jack Butland from Birmingham City might prove to be money very well spent, but because of those who stayed.".
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#harry_redknapp>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#robert_huth>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#kenwyne_jones>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#cameron_jerome>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens_park_rangers_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#danny_graham>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#stoke_city_fc>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#about> <http://bk.sport.owl#peter_crouch>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#contain> <http://bk.sport.owl#swansea_city_fc>.
+
+<http://bk.sport.owl#document2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/César%20Azpilicueta%20revives%20Chelsea%20as%20the%20pantomime%20heads%20to%20Prague%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasTitle> "﻿César Azpilicueta revives Chelsea as the pantomime heads to Prague César Azpilicueta is still adjusting to the pantomime that life at Chelsea is prone to be but, even now, he has recognised the season to date has been "strange".".
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens_park_rangers_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#victor_moses>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_cole>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#contain> <http://bk.sport.owl#shaun_maloney>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#about> <http://bk.sport.owl#frank_lampard>.
+
+<http://bk.sport.owl#document3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Gareth%20Bale%20double%20lets%20Emmanuel%20Adebayor%20off%20the%20hook%20of%20inquiry%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasTitle> "﻿Gareth Bale double lets Emmanuel Adebayor off the hook of inquiry It was a tale of jet-propelled speed, of a battle against frustration and it was marked by a difficulty in finding the answers.".
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_taylor>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth_bale>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#newcastle_united_fc>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#ligue_1>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#about> <http://bk.sport.owl#emmanuel_adebayor>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#alan_pardew>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#tim_krul>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#clint_dempsey>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#cristiano_ronaldo>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#contain> <http://bk.sport.owl#fabricio_coloccini>.
+
+<http://bk.sport.owl#document4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/How%20Manchester%20United%20nullified%20threat%20of%20Everton's%20Marouane%20Fellaini%20%20Michael%20Cox%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasTitle> "﻿How Manchester United nullified threat of Everton's Marouane Fellaini Manchester United started their Premier League campaign with a 1-0 defeat at Everton, where Marouane Fellaini was allowed to roam across the pitch, exploiting the absences in United's backline, and thriving in aerial duels against the makeshift centre-back Michael Carrick.".
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#carl_jenkinson>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#bacary_sagna>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#victor_anichebe>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#leon_osman>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#antonio_valencia>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#tom_cleverley>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth_bale>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#didier_drogba>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#cristiano_ronaldo>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#darron_gibson>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#phil_jones>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#sunderland_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#john_o_shea>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#leighton_baines>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#rafael_da_silva>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#ryan_giggs>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#michael_carrick>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#phil_neville>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#laurent_koscielny>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#about> <http://bk.sport.owl#marouane_fellaini>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#darren_fletcher>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#contain> <http://bk.sport.owl#wayne_rooney>.
+
+<http://bk.sport.owl#document5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Jack%20Wilshere%20limps%20off%20but%20Arsène%20Wenger%20stands%20by%20midfielder's%20style%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasTitle> "﻿Jack Wilshere limps off but Arsène Wenger stands by midfielder's style Jack Wilshere departed Wearside with a heavily bandaged thigh, a pronounced limp and, presumably, a lingering sense of claustrophobia.".
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#carl_jenkinson>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#lionel_messi>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#simon_mignolet>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#sunderland_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#bacary_sagna>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#titus_bramble>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#jack_wilshere>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#adam_johnson>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#lee_cattermole>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#tottenham_hotspur_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#mikel_arteta>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#theo_walcott>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#laurent_koscielny>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#aaron_ramsey>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#about> <http://bk.sport.owl#martin_o_neill>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#contain> <http://bk.sport.owl#nacho>.
+
+<http://bk.sport.owl#document6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Liverpool%200-2%20West%20Bromwich%20Albion%20%20Premier%20League%20match%20report%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasTitle> "﻿Liverpool 0-2 West Bromwich Albion Premier League match report Football The Guardian Liverpool required no reminder of what life was like before they spent £12m on Daniel Sturridge.".
+<http://bk.sport.owl#liverpool_fc> <http://bk.sport.owl#loose> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http//bk.sport.owl#liverpool_fc_west_bromwich_albion_fc_match> <http://bk.sport.owl#hasScore> "0:2"
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#ben_foster>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#daniel_sturridge>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#brendan_rodgers>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_gerrard>.
+
+<http://bk.sport.owl#document7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Liverpool%200-2%20West%20Bromwich%20Albion%20%20Premier%20League%20match%20report%20%20Football%20%20The%20Guardian_1.txt".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasTitle> "﻿West Brom put two past Liverpool after Gerrard penalty failure Liverpool required no reminder of what life was like before they spent £12m on Daniel Sturridge.".
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#ben_foster>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#daniel_sturridge>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#romelu_lukaku>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_reid>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#jonas_olsson>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#jordan_henderson>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#stoke_city_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#daniel_agger>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#chris_brunt>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#james_morrison>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#youssouf_mulumbu>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#stewart_downing>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#brendan_rodgers>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#gareth_mcauley>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#jonas>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#jonjo_shelvey>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#raheem_sterling>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#contain> <http://bk.sport.owl#peter_odemwingie>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_gerrard>.
+
+<http://bk.sport.owl#document8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Liverpool%205-0%20Swansea%20City%20%20Premier%20League%20match%20report%20%20Football%20%20guardian_co_uk.txt".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasTitle> "﻿Rampant Liverpool dismiss weakened Swansea City at Anfield The past week had been "a bumpy road" in the Liverpool reign of Brendan Rodgers but respite was waiting at the end in the form of a compliant old friend.".
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_williams>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#daniel_sturridge>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#garry_monk>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#norwich_city_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#swansea_city_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#wayne_routledge>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#glen_johnson>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#stewart_downing>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#michel_vorm>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#brendan_rodgers>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#kemy_agustien>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#jamie_carragher>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_gerrard>.
+
+<http://bk.sport.owl#document9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Liverpool%205-0%20Swansea%20City%20%20Premier%20League%20match%20report%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasTitle> "﻿Luis Suárez sparks Liverpool romp against weakened Swansea The past week had been "a bumpy road" in the Liverpool reign of Brendan Rodgers but respite was waiting at the end in the form of a compliant old friend.".
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_williams>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#daniel_sturridge>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#garry_monk>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#norwich_city_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#wayne_routledge>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#swansea_city_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#glen_johnson>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#stewart_downing>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#michel_vorm>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#brendan_rodgers>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#kemy_agustien>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#jamie_carragher>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_gerrard>.
+
+<http://bk.sport.owl#document10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Liverpool%20let%20standards%20drop%20in%20West%20Brom%20loss,%20admits%20Jordan%20Henderson%20%20Football%20%20guardian_co_uk.txt".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasTitle> "﻿Liverpool let standards drop in West Brom loss, admits Jordan Henderson The Liverpool midfielder Jordan Henderson acknowledged his side had let their standards slip in their 2-0 home defeat by West Bromwich Albion on Monday.".
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#romelu_lukaku>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#brendan_rodgers>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#jordan_henderson>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#gareth_mcauley>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#about> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#swansea_city_fc>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_gerrard>.
+
+<http://bk.sport.owl#document11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Manchester%20United%202-0%20Everton%20%20Premier%20League%20match%20report%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasTitle> "﻿Manchester United extend lead to 12 points with victory over Everton Last season's scars still show on Sir Alex Ferguson.".
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#victor_anichebe>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#leon_osman>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#david_moyes>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#antonio_valencia>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_de_gea>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#robin_van_persie>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#nikica_jelavic>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#sylvain_distin>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#aston_villa_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#phil_jones>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#leighton_baines>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#ryan_giggs>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#nemanja_vidic>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#kevin_mirallas>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#phil_neville>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#about> <http://bk.sport.owl#tim_howard>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#marouane_fellaini>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#west_bromwich_albion_fc>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#contain> <http://bk.sport.owl#wayne_rooney>.
+
+<http://bk.sport.owl#document12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Manchester%20United%20make%20it%20clear%20to%20City%20lightning%20won't%20strike%20twice%20%20Stuart%20James%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasTitle> "﻿Manchester United make it clear to City: lightning won't strike twice The title race is all but over.".
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#sunderland_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#rafael_da_silva>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#ryan_giggs>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil_neville>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#tim_howard>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#robin_van_persie>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#contain> <http://bk.sport.owl#cristiano_ronaldo>.
+
+<http://bk.sport.owl#document13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Manchester%20Utd%20are%20running%20away%20with%20the%20title_%20Are%20they%20better%20than%20we%20think%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasTitle> "﻿Manchester Utd are running away with the title.".
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil_jones>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#chelsea_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#david_de_gea>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#michael_carrick>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#about> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#robin_van_persie>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#contain> <http://bk.sport.owl#kenny_dalglish>.
+
+<http://bk.sport.owl#document14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Michael%20Laudrup%20apologises%20to%20Swansea%20fans%20over%20heavy%20Anfield%20defeat%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasTitle> "﻿Michael Laudrup apologises to Swansea fans over heavy Anfield defeat Michael Laudrup issued an apology to Swansea City supporters and admitted he feared an adverse reaction in the Capital One Cup final after his team selection backfired with a 5-0 defeat at Liverpool.".
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_williams>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#fulham_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#daniel_sturridge>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#liverpool_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#brendan_rodgers>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#about> <http://bk.sport.owl#swansea_city_fc>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_gerrard>.
+
+<http://bk.sport.owl#document15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Norwich%20City%20head%20for%20sunshine%20break%20to%20find%20cure%20for%20scoring%20ills%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasTitle> "﻿Norwich City head for sunshine break to find cure for scoring ills Chris Hughton hopes a warm-weather training break will help to reinvigorate Norwich City's season after labouring through a goalless draw with Fulham.".
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#fulham_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#bryan_ruiz>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#arsenal_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#emmanuel_frimpong>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#martin_jol>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#stoke_city_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#about> <http://bk.sport.owl#norwich_city_fc>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#chris_baird>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#contain> <http://bk.sport.owl#grant_holt>.
+
+<http://bk.sport.owl#document16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Roberto%20Mancini%20accuses%20Manchester%20City%20players%20of%20complacency%20%20Football%20%20The%20Observer.txt".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasTitle> "﻿Roberto Mancini accuses Manchester City players of complacency Roberto Mancini berated his players for a "worse than poor" performance as Manchester City lost 3-1 at Southampton that left his City side with no more than a "10% chance" of preventing Manchester United reclaiming the Premier League title.".
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#steven_davis>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#contain> <http://bk.sport.owl#gareth_barry>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#joe_hart>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Sir%20Alex%20Ferguson%20ditches%20team%20changes%20to%20earn%20'fantastic%20position'%20%20Football%20%20The%20Guardian.txt".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasTitle> "﻿Sir Alex Ferguson ditches team changes to earn 'fantastic position' Sir Alex Ferguson said he abandoned plans for wholesale changes against Everton once Manchester United were offered "a fantastic position" in the title race by Manchester City's defeat at Southampton.".
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#shinji_kagawa>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#ashley_young>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#phil_jones>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#rio_ferdinand>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#ryan_giggs>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_moyes>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#michael_carrick>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#contain> <http://bk.sport.owl#robin_van_persie>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+
+<http://bk.sport.owl#document18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Sir%20Alex%20Ferguson%20labels%20Manchester%20United's%2012-point%20lead%20'sensational'%20%20Football%20%20guardian_co_uk.txt".
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasTitle> "﻿Sir Alex Ferguson labels Manchester United's 12-point lead 'sensational'".
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#real_madrid_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#about> <http://bk.sport.owl#alex_ferguson>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#contain> <http://bk.sport.owl#premier_league>.
+
+<http://bk.sport.owl#document19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/guardian.co.uk.txt/pemierleague/001/Southampton%203-1%20Manchester%20City%20%20Premier%20League%20match%20report%20%20Football%20%20The%20Observer.txt".
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasTitle> "﻿Southampton 3-1 Manchester City Premier League match report Football The Observer After waiting 44 years to claim the crown of English champions, Manchester City appear to have relinquished it within just 26 matches.".
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#aleksandar_kolarov>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#pablo_zabaleta>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#javi_garcía>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#vincent_kompany>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#david_silva>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#carlos_tevez>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#manchester_united_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#queens_park_rangers_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#artur>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#joe_hart>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#roberto_mancini>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#premier_league>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#edin_dzeko>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#everton_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#steven_davis>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#gareth_barry>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#joleon_lescott>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#about> <http://bk.sport.owl#manchester_city_fc>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#contain> <http://bk.sport.owl#mario_balotelli>.
+

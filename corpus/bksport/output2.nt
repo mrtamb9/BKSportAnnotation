@@ -1,0 +1,1056 @@
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement1> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#branislav-ivanovic> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#swansea-city-fc> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement3> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement4> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#newcastle-united-fc> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement5> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ross-turnbull> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#gary-cahill> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#frank-lampard> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement9> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#aston-villa-fc> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement10> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#gerhard-tremmel> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement11> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#queens-park-rangers-fc> .
+<http://bk.sport.owl#document0> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement12> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document0> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ashley-williams> .
+<http://bk.sport.owl#document0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document0> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/133lmvaq4.txt".
+
+<http://bk.sport.owl#document1> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement13> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document1> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#newcastle-united-fc> .
+<http://bk.sport.owl#document1> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement14> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document1> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#seydou-keita> .
+<http://bk.sport.owl#document1> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement15> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document1> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#sunderland-fc> .
+<http://bk.sport.owl#document1> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement16> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document1> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#barcelona-fc> .
+<http://bk.sport.owl#document1> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement17> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document1> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ligue-1> .
+<http://bk.sport.owl#document1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document1> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/136269rmn.txt".
+
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement18> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#old-trafford-football-stadium> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement19> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement20> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#harry-redknapp> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement21> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#brendan-rodgers> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement23> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#patrice-evra> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#tottenham-hotspur-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement25> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-city-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#stoke-city-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement27> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#roberto-mancini> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement28> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#arsenal-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement30> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#amsterdamsche-football-club-ajax-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement31> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement32> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#alex-ferguson> .
+<http://bk.sport.owl#document2> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement33> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document2> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#queens-park-rangers-fc> .
+<http://bk.sport.owl#document2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document2> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/136h9j4hj.txt".
+
+<http://bk.sport.owl#document3> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement34> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document3> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#uefa-europa-league> .
+<http://bk.sport.owl#document3> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement35> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document3> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#champions-league> .
+<http://bk.sport.owl#document3> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement36> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document3> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#fc-bayern-munich-fc> .
+<http://bk.sport.owl#document3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document3> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/1370sqnhc.txt".
+
+<http://bk.sport.owl#document4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document4> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/137128kdc.txt".
+
+<http://bk.sport.owl#document5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document5> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/13cb9r8ks.txt".
+
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement37> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#david-luiz> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement38> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ben-davies> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement39> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liberty-stadium-football-stadium> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#gary-cahill> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement41> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ashley-cole> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement42> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#frank-lampard> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement43> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#wayne-routledge> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement44> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#angel-rangel> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement45> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#gerhard-tremmel> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement46> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#branislav-ivanovic> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement47> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ross-turnbull> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement48> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement49> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#leon-britton> .
+<http://bk.sport.owl#document6> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement50> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document6> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ashley-williams> .
+<http://bk.sport.owl#document6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document6> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20886408.txt".
+
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement51> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#stamford-bridge-football-stadium> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement52> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement53> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement54> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#old-trafford-football-stadium> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement55> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ryan-giggs> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement56> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#frank-lampard> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement57> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement58> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#champions-league> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement59> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement60> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#paul-scholes> .
+<http://bk.sport.owl#document7> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement61> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document7> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#alex-ferguson> .
+<http://bk.sport.owl#document7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document7> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20930630.txt".
+
+<http://bk.sport.owl#document8> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement62> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document8> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement63> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document8> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement64> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#gareth-bale> .
+<http://bk.sport.owl#document8> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement65> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#west-bromwich-albion-fc> .
+<http://bk.sport.owl#document8> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement66> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#clint-dempsey> .
+<http://bk.sport.owl#document8> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement67> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#aaron-lennon> .
+<http://bk.sport.owl#document8> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement68> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document8> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#tottenham-hotspur-fc> .
+<http://bk.sport.owl#document8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document8> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20941373.txt".
+
+<http://bk.sport.owl#document9> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement69> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document9> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document9> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20952917.txt".
+
+<http://bk.sport.owl#document10> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement70> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document10> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document10> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement71> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document10> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document10> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement72> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document10> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#champions-league> .
+<http://bk.sport.owl#document10> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement73> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document10> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#la-liga> .
+<http://bk.sport.owl#document10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document10> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20957090.txt".
+
+<http://bk.sport.owl#document11> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement74> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document11> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document11> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement75> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document11> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#sunderland-fc> .
+<http://bk.sport.owl#document11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document11> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20960790.txt".
+
+<http://bk.sport.owl#document12> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement76> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document12> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document12> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement77> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document12> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#barcelona-fc> .
+<http://bk.sport.owl#document12> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement78> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document12> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#la-liga> .
+<http://bk.sport.owl#document12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document12> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20960987.txt".
+
+<http://bk.sport.owl#document13> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement79> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document13> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#martin-o-neill> .
+<http://bk.sport.owl#document13> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement80> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document13> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document13> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement81> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document13> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#sunderland-fc> .
+<http://bk.sport.owl#document13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document13> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20962396.txt".
+
+<http://bk.sport.owl#document14> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement82> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document14> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document14> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20962988.txt".
+
+<http://bk.sport.owl#document15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document15> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20963080.txt".
+
+<http://bk.sport.owl#document16> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement83> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document16> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document16> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20963656.txt".
+
+<http://bk.sport.owl#document17> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement84> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document17> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document17> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20963963.txt".
+
+<http://bk.sport.owl#document18> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement85> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document18> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#branislav-ivanovic> .
+<http://bk.sport.owl#document18> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement86> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document18> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#swansea-city-fc> .
+<http://bk.sport.owl#document18> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement87> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document18> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document18> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20965177.txt".
+
+<http://bk.sport.owl#document19> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement88> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document19> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#blackburn-rovers-fc> .
+<http://bk.sport.owl#document19> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement89> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document19> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ewood-park-football-stadium> .
+<http://bk.sport.owl#document19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document19> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20967683.txt".
+
+<http://bk.sport.owl#document20> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement90> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document20> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#branislav-ivanovic> .
+<http://bk.sport.owl#document20> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement91> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document20> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#stamford-bridge-football-stadium> .
+<http://bk.sport.owl#document20> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement92> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document20> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document20> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/20967721.txt".
+
+<http://bk.sport.owl#document21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document21> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/ac-milan-deserved-more-insists-allegri.txt".
+
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement93> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#etihad-football-stadium> .
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement94> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement95> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#harry-redknapp> .
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement96> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#rafael-van-der-vaart> .
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement97> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#white-hart-lane-football-stadium> .
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement98> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#clint-dempsey> .
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement99> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#tottenham-hotspur-fc> .
+<http://bk.sport.owl#document22> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement100> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document22> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-city-fc> .
+<http://bk.sport.owl#document22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document22> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/adebayor-mess-leaves-tottenham-feeling.txt".
+
+<http://bk.sport.owl#document23> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement101> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document23> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document23> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/adelaide-united-pick-17-year-old-awer-mabil-for-friday.txt".
+
+<http://bk.sport.owl#document24> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement102> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#david-luiz> .
+<http://bk.sport.owl#document24> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement103> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#branislav-ivanovic> .
+<http://bk.sport.owl#document24> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement104> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#stamford-bridge-football-stadium> .
+<http://bk.sport.owl#document24> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement105> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liberty-stadium-football-stadium> .
+<http://bk.sport.owl#document24> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement106> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#swansea-city-fc> .
+<http://bk.sport.owl#document24> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement107> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#everton-fc> .
+<http://bk.sport.owl#document24> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement108> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document24> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document24> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/benitez-brushes-off-torres-criticism-after-.txt".
+
+<http://bk.sport.owl#document25> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement109> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document25> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document25> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/central-coast-mariners-striker-bernie-ibini-to-trial-with-belgi.txt".
+
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement110> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement111> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#everton-fc> .
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement112> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement113> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#arsenal-fc> .
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement114> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#leighton-baines> .
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement115> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#tottenham-hotspur-fc> .
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement116> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-city-fc> .
+<http://bk.sport.owl#document26> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement117> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document26> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#theo-walcott> .
+<http://bk.sport.owl#document26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document26> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/chelsea-manchester-city-and-everton-dominate-tod.txt".
+
+<http://bk.sport.owl#document27> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement118> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document27> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#barcelona-fc> .
+<http://bk.sport.owl#document27> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement119> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document27> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#la-liga> .
+<http://bk.sport.owl#document27> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement120> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document27> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#luka-modric> .
+<http://bk.sport.owl#document27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document27> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/cristiano-ronaldo-scores-stunning-hat-trick-as-real-madrid-ease.txt".
+
+<http://bk.sport.owl#document28> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement121> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document28> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#newcastle-united-fc> .
+<http://bk.sport.owl#document28> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement122> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document28> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document28> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/five-reds-are-vying-for-three-remaining-contract.txt".
+
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement123> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liberty-stadium-football-stadium> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement124> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#old-trafford-football-stadium> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement125> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement126> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement127> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#pablo-zabaleta> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement128> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#frank-lampard> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement129> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#joe-hart> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement130> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#steven-gerrard> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement131> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#la-liga> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement132> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#barcelona-fc> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement133> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#joe-allen> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement134> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-city-fc> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement135> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#nemanja-vidic> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement136> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement137> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#arsenal-fc> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement138> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#vincent-kompany> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement139> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#leighton-baines> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement140> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement141> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#alex-ferguson> .
+<http://bk.sport.owl#document29> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement142> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document29> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#john-terry> .
+<http://bk.sport.owl#document29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document29> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/fox-sports-adam-peacocks-five-things-to-keep-an-.txt".
+
+<http://bk.sport.owl#document30> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement143> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document30> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#newcastle-united-fc> .
+<http://bk.sport.owl#document30> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement144> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document30> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document30> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/fox-sports-football-commentator-mel-mclaughlin-preview.txt".
+
+<http://bk.sport.owl#document31> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement145> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document31> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#serie-a> .
+<http://bk.sport.owl#document31> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement146> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document31> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#premier-league> .
+<http://bk.sport.owl#document31> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement147> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document31> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#san-siro-football-stadium> .
+<http://bk.sport.owl#document31> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement148> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document31> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#adriano> .
+<http://bk.sport.owl#document31> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement149> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document31> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document31> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/galliani-insists-milan-are-not-inter.txt".
+
+<http://bk.sport.owl#document32> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement150> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document32> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#serie-a> .
+<http://bk.sport.owl#document32> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement151> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document32> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#fulham-fc> .
+<http://bk.sport.owl#document32> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement152> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document32> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#san-siro-football-stadium> .
+<http://bk.sport.owl#document32> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement153> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document32> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#champions-league> .
+<http://bk.sport.owl#document32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document32> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/gattuso-tips-montella-as-future-ac-milan-coa.txt".
+
+<http://bk.sport.owl#document33> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement154> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document33> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#seydou-keita> .
+<http://bk.sport.owl#document33> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement155> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document33> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#ligue-1> .
+<http://bk.sport.owl#document33> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement156> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document33> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#barcelona-fc> .
+<http://bk.sport.owl#document33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document33> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/jallet-upset-over-hoarau-departure.txt".
+
+<http://bk.sport.owl#document34> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement157> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document34> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#serie-a> .
+<http://bk.sport.owl#document34> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement158> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document34> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#juventus-football-stadium> .
+<http://bk.sport.owl#document34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document34> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/juventus-2-1-ac-milan-aet-vucinic-t.txt".
+
+<http://bk.sport.owl#document35> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement159> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document35> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document35> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/juventus-responded-as-i-had-hoped-says-conte.txt".
+
+<http://bk.sport.owl#document36> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement160> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document36> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#branislav-ivanovic> .
+<http://bk.sport.owl#document36> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement161> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document36> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#stamford-bridge-football-stadium> .
+<http://bk.sport.owl#document36> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement162> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document36> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#swansea-city-fc> .
+<http://bk.sport.owl#document36> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement163> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document36> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#everton-fc> .
+<http://bk.sport.owl#document36> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement164> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document36> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document36> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement165> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document36> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#anfield-football-stadium> .
+<http://bk.sport.owl#document36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document36> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/laudrup-hails-very-special-chelsea-triumph-.txt".
+
+<http://bk.sport.owl#document37> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement166> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document37> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#fc-bayern-munich-fc> .
+<http://bk.sport.owl#document37> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement167> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document37> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#barcelona-fc> .
+<http://bk.sport.owl#document37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document37> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/messi-sends-muller-signed-shirt-after-breaki.txt".
+
+<http://bk.sport.owl#document38> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement168> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document38> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#luka-modric> .
+<http://bk.sport.owl#document38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document38> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/real-madrid-4-0-celta-vigo-agg-5-2-clinical-.txt".
+
+<http://bk.sport.owl#document39> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement169> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document39> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document39> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/ronaldo-we-need-real-madrid-fans-to-support-.txt".
+
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement170> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#old-trafford-football-stadium> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement171> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-united-fc> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement172> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement173> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#anfield-football-stadium> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement174> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#champions-league> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement175> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#liverpool-fc> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement176> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#patrice-evra> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement177> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#fc-bayern-munich-fc> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement178> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#barcelona-fc> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement179> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#alex-ferguson> .
+<http://bk.sport.owl#document40> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement180> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document40> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#manchester-city-fc> .
+<http://bk.sport.owl#document40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document40> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/sir-alex-ferguson-hopes-evra-suarez-race-ro.txt".
+
+<http://bk.sport.owl#document41> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement181> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document41> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#branislav-ivanovic> .
+<http://bk.sport.owl#document41> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement182> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document41> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#stamford-bridge-football-stadium> .
+<http://bk.sport.owl#document41> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement183> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document41> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#newcastle-united-fc> .
+<http://bk.sport.owl#document41> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement184> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document41> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#frank-lampard> .
+<http://bk.sport.owl#document41> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement185> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document41> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#about> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#chelsea-fc> .
+<http://bk.sport.owl#document41> <http://bk.sport.owl#saidThat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#statement186> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://bk.sport.owl#document41> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://bk.sport.owl#contain> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#statement186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://bk.sport.owl#gerhard-tremmel> .
+<http://bk.sport.owl#document41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bk.sport.owl#Document>.
+<http://bk.sport.owl#document41> <http://bk.sport.owl#hasURL> "file:/D:/Dropbox/Projects/KIM/source-code/BKSport/corpus/bksport/swansea-city-stun-chelsea-with-2-0-victory-in-first-leg-of-leag.txt".
+

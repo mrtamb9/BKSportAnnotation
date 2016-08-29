@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : constant.xml
+    Created on : March 11, 2012, 11:18 AM
+    Author     : congnh
+    Description:
+        Purpose of the document follows.
+-->
+
+<constants>
+    <namespace-list>
+        <namespace prefix="bksp" uri="http://bk.sport.owl#"/>
+    </namespace-list>
+    <weight-list>
+        <weight rule="occurence" value="0.5"/>
+        <weight rule="title" value="2.0"/>
+        <weight rule="say" value="1.0"/>
+    </weight-list>
+    <label-uri-list>
+        <!-- automatic retrieve from ontology -->
+        <label-class uri="http://bk.sport.owl#AssistantCoach" label="Assistant Coach"/>
+        <label-class uri="http://bk.sport.owl#Birthday" label="Birthday"/>
+        <label-class uri="http://bk.sport.owl#City" label="City"/>
+        <label-class uri="http://bk.sport.owl#Country" label="Country"/>
+        <label-class uri="http://bk.sport.owl#Defender" label="Defender"/>
+        <label-class uri="http://bk.sport.owl#Coach" label="Coach"/>
+        <label-class uri="http://bk.sport.owl#Organization" label="Organization"/>
+        <label-class uri="http://bk.sport.owl#Player" label="Player"/>
+        <label-class uri="http://bk.sport.owl#Referee" label="Referee"/>
+        <label-class uri="http://bk.sport.owl#Result" label="Result"/>
+        <label-class uri="http://bk.sport.owl#Forward" label="Forward"/>
+        <label-class uri="http://bk.sport.owl#Goalkeeper" label="Goal Keeper"/>
+        <label-class uri="http://bk.sport.owl#HeadCoach" label="Head Coach"/>
+        <label-class uri="http://bk.sport.owl#Location" label="Location"/>
+        <label-class uri="http://bk.sport.owl#Midfielder" label="Midfielder"/>
+        <label-class uri="http://bk.sport.owl#Coach" label="Coach"/>
+        <label-class uri="http://bk.sport.owl#Job" label="Job"/>
+        <label-class uri="http://bk.sport.owl#Person" label="Person"/>
+        <label-class uri="http://bk.sport.owl#Stadium" label="Stadium"/>
+        <!-- Add manually-->
+        <label-class uri="http://bk.sport.owl#ClubTeam" label="Club"/>
+        <label-class uri="http://bk.sport.owl#ClubTeam" label="FC"/>
+        <label-class uri="http://bk.sport.owl#ClubTeam" label="Football Club"/>
+        <label-class uri="http://bk.sport.owl#ClubTeam" label="Team"/>
+        <label-property uri="http://bk.sport.owl#playFor" label="play for"/>
+    </label-uri-list>
+    <label-relation-list>
+        <relation  label="support" uri="http://bk.sport.owl#support"/>
+        <relation  label="back" uri="http://bk.sport.owl#back"/>
+        <relation  label="confirm" uri="http://bk.sport.owl#support"/>
+        <relation  label="scored" uri="http://bk.sport.owl#score"/>
+        <relation  label="make suprise" uri="http://bk.sport.owl#makeSuprise"/>
+        <relation  label="stun" uri="http://bk.sport.owl#makeSuprise"/>
+        <relation  label="face" uri="http://bk.sport.owl#faceWith"/>
+        <relation  label="give up" uri="http://bk.sport.owl#giveUp"/>
+        <relation  label="gave up" uri="http://bk.sport.owl#giveUp"/>
+        <relation  label="abadon" uri="http://bk.sport.owl#giveUp"/>
+        <relation  label="disappoint" uri="http://bk.sport.owl#disappoint"/>
+        <relation  label="remind" uri="http://bk.sport.owl#remind"/>
+        <relation  label="argue with" uri="http://bk.sport.owl#argureWith"/>
+    </label-relation-list>
+</constants>
